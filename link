@@ -1,0 +1,1 @@
+ld -s -o hello hello.o

@@ -1,0 +1,1 @@
+`nasm -f elf64 -o pf_demo.o -g -F stabs pf_demo.asm`
